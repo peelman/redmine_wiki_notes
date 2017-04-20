@@ -14,24 +14,25 @@
 
 .noteclassic {
   /*border: 1px solid #99D;*/
-  background-color: #9cf;
+  background-color: #337ab7;
+  color: #fff;
   background-image: url(../images/note.png);
 }
 
 .noteimportant {
   /*border: 1px solid #ff0;*/
-  background-color: #ee9;
+  background-color: #fcf8e3;
   background-image: url(../images/important.png);
 }
 
 .notewarning {
   /*border: 1px solid #d99;*/
-  background-color: #c99;
+  background-color: #f2dede;
   background-image: url(../images/warning.png);
 }
 
 .notetip {
   /*border: 1px solid #9d9;*/
-  background-color: #9c9;
+  background-color: #d9edf7;
   background-image: url(../images/tip.png);
 }
